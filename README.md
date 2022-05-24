@@ -8,14 +8,14 @@ just using builed executable todo.exe or if your developer you know how to rebui
 
 Nothing!
 
-```bash
+```text
 just using builed executable todo.exe in root of project
  or if your developer you know how to rebuild! :)
 ```
 
 ## Usage
 
-```python
+```text
 
 # For linux user add these two line in ~/.zshrc Or ~/.bashrc 
 
