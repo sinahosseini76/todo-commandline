@@ -4,7 +4,6 @@ simple todo command line with dart just as fun! :)
 
 just using builed executable todo.exe or if your developer you know how to rebuild
 
-
 ## Installation
 
 Nothing!
@@ -33,7 +32,9 @@ alias todo='todo.exe'
 7.Reopen Command prompt window, and run todo.
 
 * PATH --> path of todo.exe 
-
+```
+## Screenshot
+![screenshot](https://github.com/sinahosseini76/todo-commandline/blob/master/image.png?raw=true)
 
 
 ## Contributing
@@ -43,8 +44,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 Copyright (c) 2022 S.Sina Hosseini
-
-
-
-
-![screenshot](https://github.com/sinahosseini76/todo-commandline/blob/master/image.png?raw=true)
